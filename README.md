@@ -13,9 +13,11 @@ RNN --> LSTM --> GRU
 
 ![RUNOOB 图标](https://github.com/kavinbj/vision_transformer_notebook/blob/main/imgs/attention01.jpg)
 
-<!-- 
-![RUNOOB 图标](https://pic4.zhimg.com/80/v2-3a88ac6c530170672781ae63ec695c83_1440w.jpg) -->
+
+<!-- ![RUNOOB 图标](https://pic4.zhimg.com/80/v2-3a88ac6c530170672781ae63ec695c83_1440w.jpg) -->
 
 # multi-modality problem
 
 # autoregressive decoder VS non-autoregressive decoder
+
+![RUNOOB 图标](https://pic3.zhimg.com/80/v2-479670505986aa912ccaf17e1238c446_1440w.jpg)
