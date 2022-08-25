@@ -1,7 +1,11 @@
 
 # ViT 学习笔记
 
-## attention 基本思想
+
+
+## attention 
+* [attention](https://github.com/kavinbj/vision_transformer_notebook/blob/main/notes/attention.md)
+
 
 RNN --> LSTM --> GRU
 
