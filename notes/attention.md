@@ -98,7 +98,6 @@
 
 以上就是self-attention的计算过程，下边是两个句子中it与上下文单词的关系热点图，很容易看出来第一个图片中的it与animal关系很强，第二个图it与street关系很强。这个结果说明注意力机制是可以很好地学习到上下文的语言信息。
 
-<!-- ![self attention](https://pic2.zhimg.com/80/v2-a1f123cabab768b6c5cd9083aa22d68d_1440w.jpg#pic_center) -->
 
 <p align="center"><img width="400" src="https://pic2.zhimg.com/80/v2-a1f123cabab768b6c5cd9083aa22d68d_1440w.jpg#pic_center" title="self attention"></p>
 
