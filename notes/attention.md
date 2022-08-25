@@ -98,8 +98,9 @@
 
 以上就是self-attention的计算过程，下边是两个句子中it与上下文单词的关系热点图，很容易看出来第一个图片中的it与animal关系很强，第二个图it与street关系很强。这个结果说明注意力机制是可以很好地学习到上下文的语言信息。
 
-![self attention](https://pic2.zhimg.com/80/v2-a1f123cabab768b6c5cd9083aa22d68d_1440w.jpg#pic_center)
+<!-- ![self attention](https://pic2.zhimg.com/80/v2-a1f123cabab768b6c5cd9083aa22d68d_1440w.jpg#pic_center) -->
 
+<p align="center"><img width="400" src="https://pic2.zhimg.com/80/v2-a1f123cabab768b6c5cd9083aa22d68d_1440w.jpg#pic_center" title="self attention"></p>
 
 ### 5.注意力机制的优缺点
 
@@ -113,4 +114,10 @@ attention的优点
 
 attention的缺点：
 需要的数据量大。因为注意力机制是抓重点信息，忽略不重要的信息，所以数据少的时候，注意力机制效果不如bilstm，现在我们企业都用注意力机制，因为企业数据都是十万百万级的数据量，用注意力机制就很好。还有传统的lstm，bilstm序列短的时候效果也比注意力机制好。所以注意力机制诞生的原因就是面向现在大数据的时代，企业里面动不动就是百万数据，超长序列，用传统的递归神经网络计算费时还不能并行计算。
+
+
+
+
+
+
 
